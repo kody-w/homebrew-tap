@@ -1,8 +1,8 @@
 # Homebrew Cask for OpenRappter. Publish by copying to Casks/openrappter.rb in github.com/kody-w/homebrew-tap
 # and filling the sha256 from the release's .dmg.sha256 asset.
 cask "openrappter" do
-  version "2.0.0"
-  sha256 "f10b8c0909f3543d8a31a9b943af28e2f34e9d4f42878be7bd4ca4691e5d9f3d"
+  version "2.0.1"
+  sha256 "839bf1107ddd9d519b5675c92a8fa069e17570ea6175867ba70e6af12012f0d2"
 
   url "https://github.com/kody-w/openrappter/releases/download/v#{version}-app/OpenRappter-#{version}.dmg"
   name "OpenRappter"
